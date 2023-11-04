@@ -1,0 +1,32 @@
+[ 
+    {
+        "id": "identity_1",
+        "conversations": [
+          {
+            "from": "user",
+            "value": "Picture 1: <img>https://cs.stanford.edu/people/rak248/VG_100K/6.jpg</img>\nWhere was this photo taken?"
+          },
+          {
+            "from": "assistant",
+            "value": "In a dining room."
+          },
+          {
+            "from": "user",
+            "value": "How many glasses are beside the white plate?"
+          },
+          {
+            "from": "assistant",
+            "value": "Three."
+          },
+          {
+            "from": "user",
+            "value": "Where is the fork?"
+          },
+          {
+            "from": "assistant",
+            "value": "<ref>fork</ref><box>(139,228),(209,350)</box>"
+          }
+        ]
+    }
+]
+

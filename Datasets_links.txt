@@ -1,0 +1,59 @@
+Please refer to report Dataset Tables for details.
+
+
+Data Set - Food Domain	Link	Label Type	Description
+UEC FOOD 256	http://foodcam.mobi/dataset256.html	class	16557 data images
+UEC Food 100	http://foodcam.mobi/dataset100.html	class	9000 (train) + 1000 (test)
+UECFoodPix	http://mm.cs.uec.ac.jp/uecfoodpix/	Bbox annotation	Bbox 9,000 images for training and 1,000 image for testing
+UECFoodPixComplete	http://mm.cs.uec.ac.jp/uecfoodpix/	segmentation	pixel-level 103 labels 9,000 images for training and 1,000 image for testing
+Food101	https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101	class	101 classes, each one 750 train and 250 test
+Fruit 360	https://www.kaggle.com/datasets/moltean/fruits	class	
+Food2K	http://123.57.42.89/FoodProject.html	class	2000 class 1million images
+Central Asian Food dataset	https://github.com/is2ai/central-asian-food-dataset	class	16,499 images across 42 food classes
+ISIA Food-500	http://123.57.42.89/Dataset_ict/ISIA_Food500_Dir/	class	"500 categories  399,726 images"
+recipe	http://im2recipe.csail.mit.edu	images with recipes	
+FoodSeg103	https://xiongweiwu.github.io/foodseg103.html#home	Segmentaton	"10k images 154 ingredient classes and average of 6 labels"
+food-recognition-challenge	https://www.aicrowd.com/challenges/food-recognition-benchmark-2022/dataset_files	Bbox annotation	54,392 images with 100,256 annotations on 323 classes.
+
+[Food2K]
+The url of images:  https://s3plus.meituan.net/v1/mss_fad1a48f61e8451b8172ba5abfdbbee5/foodai-workshop-challenge/Food2k_complete.tar.gz   
+The url of labels:      https://s3plus.meituan.net/v1/mss_fad1a48f61e8451b8172ba5abfdbbee5/foodai-workshop-challenge/Food2k_label.tar.gz
+
+[Food101]
+https://www.kaggle.com/datasets/kmader/food41
+https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
+
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+[Image Captioning]
+1. LAION-400M Dataset
+https://laion.ai/blog/laion-400-open-dataset/
+github repository:
+https://rom1504.github.io/clip-retrieval/
+
+2.datacomp
+https://laion.ai/blog/datacomp/ 
+github repository:
+https://github.com/mlfoundations/datacomp
+Paper: 
+https://arxiv.org/abs/2304.14108
+
+3.Coyo-700M dataset
+github repository:
+https://github.com/kakaobrain/coyo-dataset
+https://huggingface.co/datasets/kakaobrain/coyo-700m
+
+4.Coyo-labeled-300m:
+https://huggingface.co/datasets/kakaobrain/coyo-labeled-300m
+
+5. CC12M
+https://github.com/google-research-datasets/conceptual-12m
+https://huggingface.co/datasets/conceptual_12m
+
+6 SBU 
+https://github.com/rom1504/img2dataset/blob/main/dataset_examples/SBUcaptions.md
+--------------------------------------------------------------------------------------------------
+

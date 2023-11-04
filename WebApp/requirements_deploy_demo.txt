@@ -1,0 +1,10 @@
+git+https://github.com/huggingface/transformers.git
+torch
+git+https://github.com/mlfoundations/open_clip.git
+tiktoken
+transformers_stream_generator
+gradio 
+optimum 
+auto-gptq 
+huggingface_hub
+modelscope[multi-modal]
